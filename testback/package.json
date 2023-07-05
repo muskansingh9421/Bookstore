@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "name": "testback",
+  "version": "1.0.0",
+  "description": "my test project",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "muskan",
+  "license": "ISC"
+}
