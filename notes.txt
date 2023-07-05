@@ -1,2 +1,0 @@
-middleware used in backend in app.js
-1. body parser(handles the request that we get from frontend)
